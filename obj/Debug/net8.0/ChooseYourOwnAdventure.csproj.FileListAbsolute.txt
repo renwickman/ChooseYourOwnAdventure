@@ -1,0 +1,14 @@
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.exe
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.deps.json
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.runtimeconfig.json
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.dll
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\bin\Debug\net8.0\ChooseYourOwnAdventure.pdb
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.dll
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\refint\ChooseYourOwnAdventure.dll
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.pdb
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\Users\renwi\Desktop\CsharpProjects\ChooseYourOwnAdventure\obj\Debug\net8.0\ref\ChooseYourOwnAdventure.dll
